@@ -1,0 +1,21 @@
+header{
+	background-color: 	#8A2BE2;padding: 50px;color: white;font-size: 40px;
+}
+nav{
+	background-color:  #0000FF; padding: 50px; color: white;font-size: 40px;
+
+}
+ .float {
+ display: flex;
+ flex-direction: row;
+}
+.main {
+	background-color: #5F9EA0; height: 700px;float:left;width: 75%;font-size: 40px;
+}
+.Aside {
+	background-color: #8A2BE2;height: 700px; float: right;width: 25%;font-size: 40px;
+}
+.footer {
+	clear: left;margin-bottom: 0;height: 100px; width: 98.7%;background-color: blue;padding: 10px 10px;
+	font-size: 20px;
+}
